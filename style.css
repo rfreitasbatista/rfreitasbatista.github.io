@@ -1,0 +1,213 @@
+/******************CONFIG PADRAO***************/
+
+body, a {
+
+    margin:0;
+    padding: 0;
+    font: 16px "Lato", sans-serif;
+    color:#777;
+    height: 100%;
+    background: #fff;
+    width: 100%;
+    min-width: 400px;
+    
+}
+ul {
+    padding: 0px;
+}
+/******************APARENCIA DAS CAIXAS***************/
+.conteudo {
+    background-color: #fff;
+    color: #777;
+    text-align: center;
+    padding: 50px 80px;
+    
+}
+/******************APARENCIA DOS TITULOS DAS CAIXAS***************/
+h3 {
+    text-transform: uppercase;
+    text-align: center;
+}
+/******************CONFIG LINKS***************/
+#lista a, #retorno {
+    text-decoration: none;
+    color: #777;
+}
+/******************CONFIG LISTA***************/
+li {
+    list-style: none;
+}
+/******************CONFIG PARALAX***************/
+
+.caixa {
+    height: 550px;
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+/******************IMAGENS***************/
+
+.imagem1 {
+    background: url(img/imagem1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.imagem2 {
+    background: url(img/imagem2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.imagem3 {
+    background: url(img/imagem3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.imagem4 {
+    background: url(img/imagem4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.imagem5 {
+    background: url(img/imagem5.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.imagem6 {
+    background: url(img/imagem6.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.imagem7 {
+    background: url(img/imagem7.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.imagem8 {
+    background: url(img/imagem8.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.titulo {
+    position: absolute;
+    left:0;
+    top: 40%;
+    width: 100%;
+    color:#fff;
+    text-align: center;
+}
+
+.titulo span.titspan {
+
+    background-color: #111;
+    padding: 10px;
+    font-size: 25px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    
+}
+
+#informacao {
+    float: right;
+    position: relative;
+    right: 300px;
+}
+.clear {
+    clear: both;
+}
+#fotopessoal {
+    position: relative;
+    right: 100px;
+}
+#retorno {
+    background-color: #111;
+    color: #fff;
+}
+.port {
+    font-size: 10em;
+    position: absolute;
+    bottom: -300px;
+    width: 100%;
+    text-align: center;
+}
+#rodape {
+    box-shadow: 15px 0px 0px 0px rgb(0,0,0,0.2);
+}
+
+/****************************MENU*********/
+#cabecalho{
+    height: 60px;
+    border-bottom: 2px solid grey;
+    border-top: 2px solid grey; 
+    width: 100%;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.dropdown img{
+    width: 40px;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background: white;
+    min-width: 100px;
+    width: 90%;
+    border-radius: 1%;
+    border: 2px solid black;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2) ;
+    z-index: 1;
+    opacity: 0.5;
+    text-align: center;
+    box-sizing: border-box;
+    top: 65px;
+    
+    
+}
+.dropdown:hover .dropdown-content {
+    display:block;
+    color: #777;
+    height: 305px;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.estilo {
+    font-size: 1.5em;
+    font-weight: 700;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    padding: 0;
+}
+#menucab a {
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    font-weight: 900;
+    letter-spacing: 0.3px;
+    
+    
+    
+}
+#menucab li {
+    padding: 1px;
+    width: 100%;
+    text-align: center;
+    margin:0;
+    box-sizing: border-box;
+}
+#menucab li:hover{
+    background-color: dimgrey;
+}
