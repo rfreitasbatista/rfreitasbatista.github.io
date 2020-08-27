@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.02e2b8a5.chunk.css",
-    "main.js": "/static/js/main.d0f0d521.chunk.js",
-    "main.js.map": "/static/js/main.d0f0d521.chunk.js.map",
+    "main.js": "/static/js/main.64a1a9af.chunk.js",
+    "main.js.map": "/static/js/main.64a1a9af.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.ae27d00f.chunk.css": "/static/css/2.ae27d00f.chunk.css",
-    "static/js/2.a3a96184.chunk.js": "/static/js/2.a3a96184.chunk.js",
-    "static/js/2.a3a96184.chunk.js.map": "/static/js/2.a3a96184.chunk.js.map",
+    "static/js/2.4aa91b9e.chunk.js": "/static/js/2.4aa91b9e.chunk.js",
+    "static/js/2.4aa91b9e.chunk.js.map": "/static/js/2.4aa91b9e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bc1faca2c0b5806bc6badd2ee9fec7d3.js": "/precache-manifest.bc1faca2c0b5806bc6badd2ee9fec7d3.js",
+    "precache-manifest.8b93fe6932114d9cbfb0f99a467a0dca.js": "/precache-manifest.8b93fe6932114d9cbfb0f99a467a0dca.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.ae27d00f.chunk.css.map": "/static/css/2.ae27d00f.chunk.css.map",
     "static/css/main.02e2b8a5.chunk.css.map": "/static/css/main.02e2b8a5.chunk.css.map",
-    "static/js/2.a3a96184.chunk.js.LICENSE.txt": "/static/js/2.a3a96184.chunk.js.LICENSE.txt",
+    "static/js/2.4aa91b9e.chunk.js.LICENSE.txt": "/static/js/2.4aa91b9e.chunk.js.LICENSE.txt",
     "static/media/Bootstrap.png": "/static/media/Bootstrap.63e98da8.png",
     "static/media/CSS3.png": "/static/media/CSS3.63f09ac3.png",
     "static/media/HTML5.png": "/static/media/HTML5.5bfe5133.png",
@@ -35,13 +35,14 @@
     "static/media/redux.png": "/static/media/redux.f7b40272.png",
     "static/media/rtl.png": "/static/media/rtl.f1720b06.png",
     "static/media/solDivinoBW.jpeg": "/static/media/solDivinoBW.f89ad78a.jpeg",
-    "static/media/solDivinoColor.jpeg": "/static/media/solDivinoColor.0accafcd.jpeg"
+    "static/media/solDivinoColor.jpeg": "/static/media/solDivinoColor.0accafcd.jpeg",
+    "static/media/trybeTriviaColor.png": "/static/media/trybeTriviaColor.c471d6c9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.ae27d00f.chunk.css",
-    "static/js/2.a3a96184.chunk.js",
+    "static/js/2.4aa91b9e.chunk.js",
     "static/css/main.02e2b8a5.chunk.css",
-    "static/js/main.d0f0d521.chunk.js"
+    "static/js/main.64a1a9af.chunk.js"
   ]
 }

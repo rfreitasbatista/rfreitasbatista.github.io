@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a0683819e6612554effeccd18b40167",
+    "revision": "351d17bf6d4070fa24aec6f36927babd",
     "url": "/index.html"
   },
   {
-    "revision": "f4e431d5dae6b0a0f28c",
+    "revision": "1065b8925429e0b4969f",
     "url": "/static/css/2.ae27d00f.chunk.css"
   },
   {
-    "revision": "5ef8a63158d8b237a507",
+    "revision": "483f015bb9edc310b62d",
     "url": "/static/css/main.02e2b8a5.chunk.css"
   },
   {
-    "revision": "f4e431d5dae6b0a0f28c",
-    "url": "/static/js/2.a3a96184.chunk.js"
+    "revision": "1065b8925429e0b4969f",
+    "url": "/static/js/2.4aa91b9e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.a3a96184.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.4aa91b9e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ef8a63158d8b237a507",
-    "url": "/static/js/main.d0f0d521.chunk.js"
+    "revision": "483f015bb9edc310b62d",
+    "url": "/static/js/main.64a1a9af.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -114,5 +114,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0accafcd08d4a673e4957b627db30189",
     "url": "/static/media/solDivinoColor.0accafcd.jpeg"
+  },
+  {
+    "revision": "c471d6c947373e2f0676f6ae876e0710",
+    "url": "/static/media/trybeTriviaColor.c471d6c9.png"
   }
 ]);
